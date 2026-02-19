@@ -1,4 +1,5 @@
 # 📊 E-commerce Sales Dashboard (Power BI)
+Dashboard Screenshot.png
 
 ## 📌 Project Overview
 This project analyzes e-commerce sales data to understand revenue trends,
